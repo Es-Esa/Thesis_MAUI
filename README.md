@@ -29,8 +29,8 @@ This project is a **proof of concept** developed as part of a thesis. It demonst
 
 ### 2️⃣ Clone Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Es-Esa/Thesis_MAUI
+cd OBJ_detection_maui
 ```
 
 ### 3️⃣ Download YOLOv4 ONNX Model
