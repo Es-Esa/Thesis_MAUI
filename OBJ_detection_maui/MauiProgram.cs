@@ -14,6 +14,7 @@ namespace OBJ_detection_maui
 
             // Copy model file from "Resources/Raw/Models/" to AppDataDirectory
             CopyFileToAppData("Models/yolov4.onnx", "yolov4.onnx");
+            CopyFileToAppData("test_image.jpg", "test_image.jpg");
 
             return builder.Build();
         }
